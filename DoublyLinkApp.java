@@ -8,6 +8,7 @@
  *
  * @author Wolverine
  */
+//hello
 class Link2 {
 
     int key;
